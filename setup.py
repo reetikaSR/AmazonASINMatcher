@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='AmazonASINMatcher',
-    version='1.0',
+    version='1.1',
     description='A project to get the product details on Amazon',
     long_description=long_description,
     long_description_content_type="text/markdown",
