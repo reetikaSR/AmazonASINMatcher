@@ -5,12 +5,13 @@ with open("README.md", "r") as fh:
 
 setup(
     name='AmazonASINMatcher',
-    version='1.1',
+    version='1.2',
     description='A project to get the product details on Amazon',
     long_description=long_description,
     long_description_content_type="text/markdown",
     author='reetikaS',
     packages=['AmazonASINMatcher'],
+    url="https://github.com/reetikaSR/AmazonASINMatcher",
     classifiers=[
         "Programming Language :: Python :: 2.7",
         "License :: OSI Approved :: MIT License"]

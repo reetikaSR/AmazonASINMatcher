@@ -1,6 +1,6 @@
-import Region
-import Check_Url
-import Check_pattern
+from AmazonASINMatcher import Region
+from AmazonASINMatcher import Check_Url
+from AmazonASINMatcher import Check_pattern
 import re
 
 
